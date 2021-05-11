@@ -1,0 +1,103 @@
+#plate {
+    box-sizing: border-box;
+    border: 2px solid black;
+    height: 300px;
+    width: 25%;
+    margin: auto; 
+    background-color: grey; 
+}
+
+#line1 {
+    box-sizing: border-box;
+    display: flex;
+    border: 2px solid black; 
+    height: 100px; 
+    width: 100%;
+    margin: auto;
+    padding: 1%; 
+}
+
+#top1 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-right: 1%; 
+}
+
+#top2 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+}
+
+#top3 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-left: 1%; 
+}
+
+#line2 {
+    box-sizing: border-box;
+    display: flex;
+    border: 2px solid black; 
+    height: 100px; 
+    width: 100%;
+    margin: auto;
+    padding: 1%; 
+}
+
+#mid1 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-right: 1%; 
+}
+
+#mid2 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+}
+
+#mid3 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-left: 1%; 
+}
+
+#line3 {
+    box-sizing: border-box;
+    display: flex;
+    border: 2px solid black; 
+    height: 100px; 
+    width: 100%;
+    margin: auto;
+    padding: 1%; 
+}
+
+#bot1 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-right: 1%; 
+}
+
+#bot2 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+}
+
+#bot3 {
+    box-sizing: border-box;
+    border: 2px solid black;
+    width: 34%; 
+    margin-left: 1%; 
+}
+
+#reset {
+    text-align: center;
+    margin-top: 3%; 
+}
