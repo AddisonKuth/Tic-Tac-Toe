@@ -7,6 +7,26 @@
     background-color: grey; 
 }
 
+#red {
+    position: absolute; 
+    top: 2%; 
+    right: 70%; 
+    color: red; 
+    text-shadow: 5px 5px 10px black; 
+    display: none; 
+    font-size: 40px; 
+}
+
+#green {
+    position: absolute; 
+    top: 2%; 
+    left: 70%; 
+    display: none; 
+    color: green; 
+    text-shadow: 5px 5px 10px black; 
+    font-size: 40px; 
+}
+
 #line1 {
     box-sizing: border-box;
     display: flex;
