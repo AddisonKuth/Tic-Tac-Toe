@@ -1,29 +1,51 @@
+h1 {
+    margin: 0 auto; 
+    margin-top: 5vh;
+    margin-bottom: 5vh; 
+    text-align: center; 
+    font-size: 50px; 
+}
+
+#XO {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#red-intro {
+    color: red;
+    font-size: 30px; 
+}
+
+#green-intro {
+    color: green;
+    font-size: 30px; 
+}
+
 #plate {
     box-sizing: border-box;
     border: 2px solid black;
-    height: 300px;
-    width: 25%;
+    height: 60vh;
+    width: 60vh;
     margin: auto; 
     background-color: grey; 
+    margin-top: 5vh; 
 }
 
 #red {
     position: absolute; 
-    top: 2%; 
-    right: 70%; 
+    top: 15%; 
+    right: 45%; 
     color: red; 
-    text-shadow: 5px 5px 10px black; 
     display: none; 
     font-size: 40px; 
 }
 
 #green {
     position: absolute; 
-    top: 2%; 
-    left: 70%; 
+    top: 15%; 
+    right: 43%; 
     display: none; 
     color: green; 
-    text-shadow: 5px 5px 10px black; 
     font-size: 40px; 
 }
 
@@ -31,7 +53,7 @@
     box-sizing: border-box;
     display: flex;
     border: 2px solid black; 
-    height: 100px; 
+    height: 20vh; 
     width: 100%;
     margin: auto;
     padding: 1%; 
@@ -61,7 +83,7 @@
     box-sizing: border-box;
     display: flex;
     border: 2px solid black; 
-    height: 100px; 
+    height: 20vh; 
     width: 100%;
     margin: auto;
     padding: 1%; 
@@ -91,7 +113,7 @@
     box-sizing: border-box;
     display: flex;
     border: 2px solid black; 
-    height: 100px; 
+    height: 20vh; 
     width: 100%;
     margin: auto;
     padding: 1%; 
